@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**plagov/plagov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and test automation engineer based in Tallinn, Estonia, currently working at [Riverty](https://www.linkedin.com/company/riverty/). 
+My daily drivers are Java and C#, and I spend my time both doing test automation and backend development.
+I'm passionate about clean code, test automation, and building reliable software.
 
-Here are some ideas to get you started:
+### What I do 💻
+- Software Development
+- Test Automation
+- Quality Engineering
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with 🛠
+- Backend: Java, Kotlin, Spring Boot, C#
+- Test Automation frameworks
+- And more cool stuff!
+
+### Let's connect! 📫
+If you'd like to discuss software engineering opportunities in Tallinn or just want to connect, feel free to reach out! You can:
+- Drop me an email at [vplagov@pm.me](mailto:vplagov@pm.me)
+- Find me on LinkedIn: [https://www.linkedin.com/in/plagov](https://www.linkedin.com/in/plagov)
