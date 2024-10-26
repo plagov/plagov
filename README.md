@@ -5,10 +5,9 @@ My daily drivers are Java and C#, and I spend my time both doing test automation
 I'm passionate about clean code, test automation, and building reliable software.
 
 ### What I do 💻
-- Software Development
+- Backend Development
 - Test Automation
 - Quality Engineering
-- Backend Development
 
 ### Tech I work with 🛠
 - Backend: Java, Kotlin, Spring Boot, C#
